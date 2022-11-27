@@ -350,6 +350,7 @@ Disable button
             .show()
 ```
 
+
 **Proguard-Rules**
 ```pro
 -keep class com.marsad.stylishdialogs.RotatingAnimation {
