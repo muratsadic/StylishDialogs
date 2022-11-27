@@ -49,7 +49,7 @@ Stylish Alert Dialogs for Android.
 	}
 
 	dependencies {
-	        implementation 'com.github.MarsadMaqsood:StylishDialogs:0.1.+'
+	        implementation 'com.github.MarsadMaqsood:StylishDialogs:1.0.+'
 	}
 
 ## How to Usage
